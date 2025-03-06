@@ -26,10 +26,6 @@ Kafka is widely used in industries for various real-time applications, such as:
 
 ### **Kafka Architecture and Working**  
 
-Apache Kafka is a **distributed event streaming platform** designed for **high-throughput, fault-tolerant, and scalable** data streaming. It enables real-time data exchange between producers and consumers.
-
----
-
 ## **Kafka Architecture**
 Kafka's architecture consists of the following key components:
 
